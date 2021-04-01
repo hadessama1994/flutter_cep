@@ -6,9 +6,6 @@
 This flutter app will get a Brazilian address when you type a postal code.
 
 
-
-![Soft](https://i.imgur.com/VGtdYjo.png?4)
-
 <img src="https://i.imgur.com/VGtdYjo.png" width="320" height="640">
 
 ---

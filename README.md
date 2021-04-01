@@ -15,7 +15,6 @@ This flutter app will get a Brazilian address when you type a postal code.
 ## Table of Contents
 
 * [Features](#features)
-* [Setup](#setup)
 * [Built With](#built-with)
 * [License](#license)
 
@@ -30,7 +29,7 @@ This flutter app will get a Brazilian address when you type a postal code.
 ## Built With
 Major Features:
 
-- [FLutter](https://github.com/flutter/flutter
+- [Flutter](https://github.com/flutter/flutter)
 
 
 
